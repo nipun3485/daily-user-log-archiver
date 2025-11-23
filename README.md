@@ -49,7 +49,7 @@ weekly_logs_YYYY-MM-DD.tar.gz
 This backup file is stored inside the archive directory.
 
 ## Screenshots
-Please include the following screenshots inside the `screenshots/` folder:
+Screenshots of the outputs are includedin the `screenshots/` folder:
 - Running the script  
 - Listing `~/dailyLogs/`  
 - Listing `~/dailyLogs/archive/`  
